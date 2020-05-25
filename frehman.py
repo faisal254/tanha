@@ -236,7 +236,7 @@ def hop():
 	        menu()
         
 	elif hack =="0":
-		hamu('Token Removed')
+		jalan('Token Removed')
 		os.system('rm -rf login.txt')
 		exit()
 	else:
